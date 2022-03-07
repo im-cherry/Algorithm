@@ -6,15 +6,15 @@ _[Summary](./00%20Summary.md)_
 
 프로그래머스 사이트의 [프로그래밍 강의](https://programmers.co.kr/learn/courses/13213)를 보고 공부했습니다.
 
-#### 1. [자료구조와 알고리즘]() :heart: :white_heart: :white_heart: :white_heart:
+#### 1. [자료구조와 알고리즘]() :heart: :heart: :white_heart: :white_heart:
 
-#### 2. [자료구조의 종류]() :heart: :white_heart: :white_heart: :white_heart:
+#### 2. [자료구조의 종류]() :heart: :heart: :white_heart: :white_heart:
 
-#### 3. [시간 복잡도]() :heart: :white_heart: :white_heart: :white_heart:
+#### 3. [시간 복잡도]() :heart: :heart: :white_heart: :white_heart:
 
-#### 4. [자바스크립트 코드 트릭]() :heart: :white_heart: :white_heart: :white_heart:
+#### 4. [자바스크립트 코드 트릭]() :heart: :heart: :white_heart: :white_heart:
 
-#### 5. [배열]() :heart: :white_heart: :white_heart: :white_heart:
+#### 5. [배열]() :heart: :white_heart: :heart: :white_heart:
 
 #### 6. [자바스크립트 배열과 객체]() :white_heart: :white_heart: :white_heart: :white_heart:
 
