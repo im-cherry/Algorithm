@@ -14,7 +14,7 @@ _[Summary](./00%20Summary.md)_
 
 #### 4. [자바스크립트 코드 트릭]() :heart: :heart: :white_heart: :white_heart:
 
-#### 5. [배열]() :heart: :white_heart: :heart: :white_heart:
+#### 5. [배열]() :heart: :heart: :white_heart: :white_heart:
 
 #### 6. [자바스크립트 배열과 객체]() :heart: :white_heart: :white_heart: :white_heart:
 
